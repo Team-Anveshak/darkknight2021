@@ -1,0 +1,14 @@
+#topicList
+{
+    display: flex;
+    text-align: center;
+}
+#topicList table
+{
+    padding:40px;
+}
+#topicList table td
+{
+    padding:20px;
+    border-bottom:1px solid #000;
+}
